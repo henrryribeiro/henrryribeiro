@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 Me chamo Henrry Marcell Ribeiro, tenho 22 anos e sou natural de São Paulo.
-Sou estudante de Ciência da Computação (UNINOVE) e apaixonado por tecnologia, com foco em desenvolvimento Back-End. Tenho familiaridade com Java (IDE IntelliJ), MySQL, criação de APIs, além de vivência com Python, JavaScript e versionamento com Git/GitHub. Estou constantemente estudando frameworks e tecnologias modernas para me manter atualizado".
+Sou formado em Ciência da Computação pela (UNINOVE) e apaixonado por tecnologia, com foco em desenvolvimento Back-End. Tenho familiaridade com Java (IDE IntelliJ), MySQL, criação de APIs, além de vivência com Python, JavaScript e versionamento com Git/GitHub. Estou constantemente estudando frameworks e tecnologias modernas para me manter atualizado".
 
 <p align="left">
    <a href="https://www.linkedin.com/in/henrry-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
