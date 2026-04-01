@@ -112,7 +112,7 @@ Sou formado em Ciência da Computação pela (UNINOVE) e apaixonado por tecnolog
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=henrryribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrryribeiro)](https://github.com/anuraghazra/github-readme-stats)" 
   />
 
 <img 
