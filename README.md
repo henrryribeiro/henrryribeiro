@@ -121,6 +121,5 @@ Sou formado em Ciência da Computação pela (UNINOVE) e apaixonado por tecnolog
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrryribeiro&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
