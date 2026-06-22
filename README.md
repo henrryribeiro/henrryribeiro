@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Henrry Marcell Ribeiro, tenho 22 anos e sou natural de São Paulo.
+Me chamo Henrry Marcell Ribeiro, tenho 23 anos e sou natural de São Paulo.
 Sou formado em Ciência da Computação pela (UNINOVE) e apaixonado por tecnologia, com foco em desenvolvimento Back-End. Tenho familiaridade com Java (IDE IntelliJ), MySQL, criação de APIs, além de vivência com Python, JavaScript e versionamento com Git/GitHub. Estou constantemente estudando frameworks e tecnologias modernas para me manter atualizado".
 
 <p align="left">
